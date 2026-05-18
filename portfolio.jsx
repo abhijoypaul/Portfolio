@@ -349,7 +349,7 @@ const Hero = () => {
                     }}
                 >
                     <img
-                        src="/portrait.jpeg"
+                        src="./portrait.jpeg"
                         alt="Abhijoy Paul"
                         style={{
                             width: "100%",
